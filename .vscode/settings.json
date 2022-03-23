@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./05- Large_Flask/01-Using-Blueprints"
+    ]
+}
