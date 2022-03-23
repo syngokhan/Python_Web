@@ -1,9 +1,3 @@
-node_modules/
-node/
-
-**/frontend/node_modules/**
-**/frontend/node/**
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
