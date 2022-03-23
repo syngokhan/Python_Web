@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ba5b255-5fb1-4b8d-a94b-69653689d013" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Flask_Vol1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/flask_basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/flask_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/errors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/puppy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_Basics/templates/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/Forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/Projects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/add_owner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Basics_Project/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/Databases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/Forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/Databases/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/RelationShip/Relation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/RelationShip/Relation_Link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/SQL/SQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask_SQL/SQL/SQL_Link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/Base_Forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/Flash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/Forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/templates/message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms/templates/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User_Authentication/Passwords/password.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26CEFtX2Zrr3R2AMe5k5r6aNRCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Blueprint/Basics_Project/puppies/templates/puppies" />
+      <recent name="$PROJECT_DIR$/Blueprint/Basics_Project/owners/templates/owners" />
+      <recent name="$PROJECT_DIR$/Blueprint/Basics_Project/puppies" />
+      <recent name="$PROJECT_DIR$/Blueprint" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Blueprint" />
+      <recent name="$PROJECT_DIR$/Blueprint/Basics_Project" />
+      <recent name="$PROJECT_DIR$/Flask_SQL/Basics_Project" />
+      <recent name="$PROJECT_DIR$/Flask_SQL/RelationShip" />
+      <recent name="$PROJECT_DIR$/Flask_SQL/Flask_SQL" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask_Vol1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blueprint" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blueprint/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba5b255-5fb1-4b8d-a94b-69653689d013" name="Changes" comment="" />
+      <created>1646919068993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646919068993</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

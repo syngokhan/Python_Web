@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        {{form.breed.label}}
+        <br>
+        {{form.breed}}
+        <hr>
+        {{ form.submit() }}
+    </form>
+{% endblock %}

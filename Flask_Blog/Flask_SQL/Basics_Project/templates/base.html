@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+</head>
+<body>
+
+      <div class="container">
+          {% for mess in get_flashed_messages()  %}
+          <div class="alert alert-warning alert-dismissible fade show" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close" class="fade close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            {{mess}}
+        </div>
+      {% endfor %}
+
+      <nav class = "navbar navbar-expand-lg navbar-light bg-light" >
+        <div class = "navbar-nav">
+            <a class ="nav-item nav-link" href = "{{ url_for('index')}}">Home</a>
+            <a class ="nav-item nav-link" href = "{{ url_for('add_owner')}}">Add Owner</a>
+            <a class ="nav-item nav-link" href = "{{ url_for('add_pup')}}">Add Puppies</a>
+            <a class ="nav-item nav-link" href = "{{ url_for('del_pup')}}">Delete Puppies</a>
+            <a class ="nav-item nav-link" href = "{{ url_for('list_pup')}}">List Of Puppies</a>
+        </div>
+
+
+      </nav>
+
+      {% block content %}
+
+      {% endblock %}
+
+</body>
+</html>

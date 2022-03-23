@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <h1>Inheritance</h1>
+    <p>Hello ! {{ some_variable }}</p>
+    <p>Dict : {{ dictionary["Gokhan"] }}</p>
+
+    {% for i in letters%}
+        <ul>
+            <li>{{i}}</li>
+        </ul>
+    {% endfor%}
+
+
+
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <div class = "jumbotron">
+
+            <h1>Thank You For Sign Up</h1>
+            <p>First Name : {{first}}</p>
+            <p>Last Name : {{last}}</p>
+
+            {% if report %}
+                <h2>Pass every conditions<h2>
+            {% endif %}
+
+    </div>
+{% endblock %}
